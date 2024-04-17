@@ -34,5 +34,5 @@
 
 ## 🍭 提示
 
-因为`repo`这个工具并没有提供`Linux Arm`的镜像，所以这个项目无法在`Linux Arm`平台上运行。
+因为[Grok](https://hub.docker.com/r/opengrok/docker)只提供`Linux x64`的镜像，所以这个项目只能在`Linux x64`平台上运行。
 
