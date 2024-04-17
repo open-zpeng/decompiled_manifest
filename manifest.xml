@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch=".." name="origin"/>
+  <default remote="origin" sync-c="true"/>
+  <project path="misc/manifest" name="open-zpeng/decompiled_manifest" revision="main">
+    <copyfile src="docker-compose.yml" dest="docker-compose.yml" />
+  </project>
+</manifest>
