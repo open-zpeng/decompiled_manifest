@@ -7,7 +7,7 @@ services:
         environment:
             - TZ=Asia/Shanghai
             - /etc/localtime:/etc/localtime:ro
-        image: repo
+        image: reccmost/repo:latest
         command: [
             "init", 
             "-u", "https://github.com/open-zpeng/decompiled_manifest.git", 
@@ -23,7 +23,7 @@ services:
         environment:
             - TZ=Asia/Shanghai
             - /etc/localtime:/etc/localtime:ro
-        image: repo
+        image: reccmost/repo:latest
         command: ["sync", "-c", "-d", "--no-tags", "--force-sync"]
 
     grok:
