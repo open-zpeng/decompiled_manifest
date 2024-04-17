@@ -3,6 +3,8 @@
   <remote fetch=".." name="origin"/>
   <default remote="origin" sync-c="true"/>
   <project path="misc/manifest" name="open-zpeng/decompiled_manifest" revision="main">
-    <copyfile src="docker-compose.yml" dest="docker-compose.yml" />
   </project>
+  <include name="manifest/p5_d55_3.6.1.xml" />
+  <include name="manifest/p7_e28_2.12.1.xml" />
+  <include name="manifest/p7_e28_2.13.0.xml" />
 </manifest>
