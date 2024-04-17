@@ -1,0 +1,45 @@
+version: '3'
+services:
+    init:
+        container_name: GitRepoInit
+        volumes:
+            - ./data/repo:/work
+        environment:
+            - TZ=Asia/Shanghai
+            - /etc/localtime:/etc/localtime:ro
+        image: repo
+        command: [
+            "init", 
+            "-u", "https://github.com/open-zpeng/decompiled_manifest.git", 
+            "-m", "manifest.xml", 
+            "-b", "main", 
+            "--depth=1"
+        ]
+
+    sync:
+        container_name: GitRepoSync
+        volumes:
+            - ./data/repo:/work
+        environment:
+            - TZ=Asia/Shanghai
+            - /etc/localtime:/etc/localtime:ro
+        image: repo
+        command: ["sync", "-c", "-d", "--no-tags", "--force-sync"]
+
+    grok:
+        container_name: OpenGrok
+        ports:
+            - 1103:8080
+        volumes:
+            - ./data/grok/etc:/opengrok/etc
+            - ./data/grok/data:/opengrok/data
+            - ./data/repo/P5_D55:/opengrok/src/P5_D55:ro
+            - ./data/repo/P7_E28:/opengrok/src/P7_E28:ro
+        environment:
+            P4PORT: 0
+            SYNC_PERIOD_MINUTES: '0'
+            NOMIRROR: TRUE
+        image: opengrok/docker:latest
+
+        
+
