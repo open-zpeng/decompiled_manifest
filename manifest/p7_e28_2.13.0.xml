@@ -4,6 +4,12 @@
   <project path="P7_E28/2.13.0_V2.13.0/system/framework/xuimanager.jar"  name="open-zpeng/decompiled_xuimanager_jar"  revision="p7_e28_2.13.0"/>
   <project path="P7_E28/2.13.0_V2.13.0/system/framework/framework.jar"   name="open-zpeng/decompiled_framework_jar"   revision="p7_e28_2.13.0"/>
   <project path="P7_E28/2.13.0_V2.13.0/system/framework/android.car.jar" name="open-zpeng/decompiled_android_car_jar" revision="p7_e28_2.13.0"/>
-  
-  <project path="P7_E28/2.13.0_V2.13.0/system_priv_app/com.xiaopeng.airplay" name="open-xpeng/decompiled_com.xiaopeng.airplay_apk" revision="p7_e28_2.13.0"/>
+  <project path="P7_E28/2.13.0_V2.13.0/system/framework/xpeng.test.jar"  name="open-xpeng/decompiled_xpeng_test_jar"  revision="p7_e28_2.13.0"/>
+  <project path="P7_E28/2.13.0_V2.13.0/system/framework/service.jar"     name="open-xpeng/decompiled_service_jar"     revision="p7_e28_2.13.0"/>
+
+  <project path="P7_E28/2.13.0_V2.13.0/system_priv_app/com.xiaopeng.airplay"      name="open-xpeng/decompiled_com.xiaopeng.airplay_apk"      revision="p7_e28_2.13.0"/>
+  <project path="P7_E28/2.13.0_V2.13.0/system_priv_app/com.xiaopeng.appinstaller" name="open-xpeng/decompiled_com.xiaopeng.appinstaller_apk" revision="p7_e28_2.13.0"/>
+  <project path="P7_E28/2.13.0_V2.13.0/system_priv_app/com.xiaopeng.oobe"         name="open-xpeng/decompiled_com.xiaopeng.oobe_apk"         revision="p7_e28_2.13.0"/>
+
+  <project path="P7_E28/2.13.0_V2.13.0/vendor_app/com.xiaopeng.montecarlo" name="open-xpeng/decompiled_com.xiaopeng.montecarlo_apk" revision="p7_e28_2.13.0"/>
 </manifest>

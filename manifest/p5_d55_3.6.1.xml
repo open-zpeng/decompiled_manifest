@@ -6,4 +6,8 @@
   <project path="P5_D55/3.6.1_V1.6.0/system/framework/android.car.jar"                   name="open-zpeng/decompiled_android_car_jar"                     revision="p5_d55_3.6.1"/>
   <project path="P5_D55/3.6.1_V1.6.0/system/framework/am.jar"                            name="open-zpeng/decompiled_am_jar"                              revision="p5_d55_3.6.1"/>
   <project path="P5_D55/3.6.1_V1.6.0/system/framework/aftersales-frameworks-service.jar" name="open-zpeng/decompiled_com_xiaopeng_aftersalesmanager_jar"  revision="p5_d55_3.6.1"/>
+  <project path="P5_D55/3.6.1_V1.6.0/system/framework/xpeng.test.jar"                    name="open-xpeng/decompiled_xpeng_test_jar"                      revision="p5_d55_3.6.1"/>
+  <project path="P5_D55/3.6.1_V1.6.0/system/framework/service.jar"                       name="open-xpeng/decompiled_service_jar"                         revision="p5_d55_3.6.1"/>
+
+  <project path="P5_D55/3.6.1_V1.6.0/vendor_app/com.xiaopeng.montecarlo" name="open-xpeng/decompiled_com.xiaopeng.montecarlo_apk" revision="p5_d55_3.6.1"/>
 </manifest>
