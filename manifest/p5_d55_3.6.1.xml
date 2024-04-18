@@ -9,5 +9,8 @@
   <project path="P5_D55/3.6.1_V1.6.0/system/framework/xpeng.test.jar"                    name="open-zpeng/decompiled_xpeng_test_jar"                      revision="p5_d55_3.6.1"/>
   <project path="P5_D55/3.6.1_V1.6.0/system/framework/service.jar"                       name="open-zpeng/decompiled_service_jar"                         revision="p5_d55_3.6.1"/>
 
-  <project path="P5_D55/3.6.1_V1.6.0/vendor_app/com.xiaopeng.montecarlo" name="open-zpeng/decompiled_com.xiaopeng.montecarlo_apk" revision="p5_d55_3.6.1"/>
+  <project path="P5_D55/3.6.1_V1.6.0/vendor_app/com.xiaopeng.montecarlo"               name="open-zpeng/decompiled_com.xiaopeng.montecarlo_apk" revision="p5_d55_3.6.1"/>
+  <project path="P5_D55/3.6.1_2.0/vendor_app/com.xiaopeng.devtools"                    name="open-zpeng/decompiled_com.xiaopeng.devtools_apk"   revision="p5_d55_3.6.1"/>
+  <project path="P5_D55/3.6.1_V1.9.0_20230627200533_Alpha/vendor_app/com.xiaopeng.ota" name="open-zpeng/decompiled_com.xiaopeng.ota_apk"        revision="p5_d55_3.6.1"/>
+  
 </manifest>
