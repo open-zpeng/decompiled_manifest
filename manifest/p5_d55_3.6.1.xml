@@ -1,27 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote fetch=".." name="origin"/>
-  <project path="P5_D55/3.6.1/system/framework/xuimanager.jar"                    name="open-zpeng/decompiled_xuimanager_jar"                      revision="p5_d55_3.6.1"/>
-  <project path="P5_D55/3.6.1/system/framework/framework.jar"                     name="open-zpeng/decompiled_framework_jar"                       revision="p5_d55_3.6.1"/>
-  <project path="P5_D55/3.6.1/system/framework/android.car.jar"                   name="open-zpeng/decompiled_android_car_jar"                     revision="p5_d55_3.6.1"/>
-  <project path="P5_D55/3.6.1/system/framework/am.jar"                            name="open-zpeng/decompiled_am_jar"                              revision="p5_d55_3.6.1"/>
-  <project path="P5_D55/3.6.1/system/framework/aftersales-frameworks-service.jar" name="open-zpeng/decompiled_com_xiaopeng_aftersalesmanager_jar"  revision="p5_d55_3.6.1"/>
-  <project path="P5_D55/3.6.1/system/framework/xpeng.test.jar"                    name="open-zpeng/decompiled_xpeng_test_jar"                      revision="p5_d55_3.6.1"/>
-  <project path="P5_D55/3.6.1/system/framework/service.jar"                       name="open-zpeng/decompiled_service_jar"                         revision="p5_d55_3.6.1"/>
+  <project path="P5_D55/system/framework/3.6.1/xuimanager.jar"                    name="open-zpeng/decompiled_xuimanager_jar"                      revision="p5_d55_3.6.1"/>
+  <project path="P5_D55/system/framework/3.6.1/framework.jar"                     name="open-zpeng/decompiled_framework_jar"                       revision="p5_d55_3.6.1"/>
+  <project path="P5_D55/system/framework/3.6.1/android.car.jar"                   name="open-zpeng/decompiled_android_car_jar"                     revision="p5_d55_3.6.1"/>
+  <project path="P5_D55/system/framework/3.6.1/am.jar"                            name="open-zpeng/decompiled_am_jar"                              revision="p5_d55_3.6.1"/>
+  <project path="P5_D55/system/framework/3.6.1/aftersales-frameworks-service.jar" name="open-zpeng/decompiled_com_xiaopeng_aftersalesmanager_jar"  revision="p5_d55_3.6.1"/>
+  <project path="P5_D55/system/framework/3.6.1/xpeng.test.jar"                    name="open-zpeng/decompiled_xpeng_test_jar"                      revision="p5_d55_3.6.1"/>
+  <project path="P5_D55/system/framework/3.6.1/service.jar"                       name="open-zpeng/decompiled_service_jar"                         revision="p5_d55_3.6.1"/>
 
-  <project path="P5_D55/3.6.1/system_priv_app/com.xiaopeng.hiddenCam/none"     name="open-zpeng/decompiled_com.xiaopeng.hiddenCam_apk"       revision="p5_d55_3.6.1"/>
-  <project path="P5_D55/3.6.1/system_priv_app/com.xiaopeng.autoshow/V1.0.0.0"  name="open-zpeng/decompiled_com.xiaopeng.autoshow_apk"        revision="p5_d55_3.6.1"/>
-  <project path="P5_D55/3.6.1/system_priv_app/com.xpeng.xpcarremotecontrol/10" name="open-zpeng/decompiled_com.xpeng.xpcarremotecontrol_apk" revision="p5_d55_3.6.1"/>
-  <project path="P5_D55/3.6.1/system_priv_app/com.xiaopeng.carcontrol/V1.6.0_20230925195935_Release" name="open-zpeng/decompiled_com.xiaopeng.carcontrol_apk" revision="p5_d55_3.6.1"/>
-  <project path="P5_D55/3.6.1/system_priv_app/com.xiaopeng.aiot/VV1.6.0_20230717200705_Release"      name="open-zpeng/decompiled_com.xiaopeng.aiot_apk"       revision="p5_d55_3.6.1"/>
-  <project path="P5_D55/3.6.1/system_priv_app/com.xiaopeng.xpcarlife/V1.6.0_20230908173613_Release"  name="open-zpeng/decompiled_com.xiaopeng.xpcarlife_apk"  revision="p5_d55_3.6.1"/>
-  <project path="P5_D55/3.6.1/system_priv_app/com.xiaopeng.montecarlo/V1.6.0_20231008144837_Release" name="open-zpeng/decompiled_com.xiaopeng.montecarlo_apk" revision="p5_d55_3.6.1"/>
-  <project path="P5_D55/3.6.1/system_priv_app/com.xiaopeng.device.communication/V1.6.0_20230725203814_Release" name="open-zpeng/decompiled_com.xiaopeng.device.communication_apk" revision="p5_d55_3.6.1"/>
-  <project path="P5_D55/3.6.1/system_priv_app/com.xiaopeng.data.uploader/V1.6.0_20230725203430_Release"        name="open-zpeng/decompiled_com.xiaopeng.data.uploader_apk"        revision="p5_d55_3.6.1"/>
-  <project path="P5_D55/3.6.1/system_priv_app/com.xiaopeng.car.settings/VV1.6.0_20230928152214_Release"        name="open-zpeng/decompiled_com.xiaopeng.car.settings_apk"         revision="p5_d55_3.6.1"/>
-  <project path="P5_D55/3.6.1/system_priv_app/com.xiaopeng.wirelessprojection/V1.6.0_20230928152821_Release"   name="open-zpeng/decompiled_com.xiaopeng.wirelessprojection_apk"   revision="p5_d55_3.6.1"/>
-  <project path="P5_D55/3.6.1/system_priv_app/com.xiaopeng.xmart.camera/V1.6.0_20230913160447_Release"         name="open-zpeng/decompiled_com.xiaopeng.xmart.camera_apk"         revision="p5_d55_3.6.1"/>
+  <project path="P5_D55/system_app/com.android.nfc/10"                  name="open-zpeng/decompiled_com.android.nfc_apk"               revision="p5_d55_10"/>
+  <project path="P5_D55/system_app/com.nforetek.bt/3.6.346"             name="open-zpeng/decompiled_com.nforetek.bt_apk"               revision="p5_d55_3.6.346"/>
+  <project path="P5_D55/system_app/com.xiaopeng.hiddenCam/none"         name="open-zpeng/decompiled_com.xiaopeng.hiddenCam_apk"        revision="p5_d55_3.6.1"/>
+  <project path="P5_D55/system_app/com.xiaopeng.autoshow/V1.0.0.0"      name="open-zpeng/decompiled_com.xiaopeng.autoshow_apk"         revision="p5_d55_3.6.1"/>
+  <project path="P5_D55/system_app/com.xpeng.xpcarremotecontrol/10"     name="open-zpeng/decompiled_com.xpeng.xpcarremotecontrol_apk"  revision="p5_d55_3.6.1"/>
+  <project path="P5_D55/system_app/com.xiaopeng.aiot.coreservice/1.1.3" name="open-zpeng/decompiled_com.xiaopeng.aiot.coreservice_apk" revision="p5_d55_1.1.3"/>
+  <project path="P5_D55/system_app/com.xiaopeng.carcontrol/V1.6.0_20230925195935_Release" name="open-zpeng/decompiled_com.xiaopeng.carcontrol_apk" revision="p5_d55_3.6.1"/>
+  <project path="P5_D55/system_app/com.xiaopeng.aiot/VV1.6.0_20230717200705_Release"      name="open-zpeng/decompiled_com.xiaopeng.aiot_apk"       revision="p5_d55_3.6.1"/>
+  <project path="P5_D55/system_app/com.xiaopeng.xpcarlife/V1.6.0_20230908173613_Release"  name="open-zpeng/decompiled_com.xiaopeng.xpcarlife_apk"  revision="p5_d55_3.6.1"/>
+  <project path="P5_D55/system_app/com.xiaopeng.montecarlo/V1.6.0_20231008144837_Release" name="open-zpeng/decompiled_com.xiaopeng.montecarlo_apk" revision="p5_d55_3.6.1"/>
+  <project path="P5_D55/system_app/com.xiaopeng.autopilot/V1.6.0_20230921114730_Release"  name="open-zpeng/decompiled_com.xiaopeng.autopilot_apk"  revision="p5_d55_V1.6.0_20230921114730_Release"/>
+  <project path="P5_D55/system_app/com.xiaopeng.musicradio/V1.6.0_20230925163134_Release" name="open-zpeng/decompiled_com.xiaopeng.musicradio_apk" revision="p5_d55_V1.6.0_20230925163134_Release"/>
+  <project path="P5_D55/system_app/com.xiaopeng.ota/V1.6.0_20230726165350_Release"        name="open-zpeng/decompiled_com.xiaopeng.ota_apk"        revision="p5_d55_V1.6.0_20230726165350_Release"/>
+  <project path="P5_D55/system_app/com.xiaopeng.bughunter/VV1.6.0_20230725203540_Release" name="open-zpeng/decompiled_com.xiaopeng.bughunter_apk"  revision="p5_d55_VV1.6.0_20230725203540_Release"/>
+  <project path="P5_D55/system_app/com.xiaopeng.device.communication/V1.6.0_20230725203814_Release"    name="open-zpeng/decompiled_com.xiaopeng.device.communication_apk"  revision="p5_d55_3.6.1"/>
+  <project path="P5_D55/system_app/com.xiaopeng.data.uploader/V1.6.0_20230725203430_Release"           name="open-zpeng/decompiled_com.xiaopeng.data.uploader_apk"         revision="p5_d55_3.6.1"/>
+  <project path="P5_D55/system_app/com.xiaopeng.car.settings/VV1.6.0_20230928152214_Release"           name="open-zpeng/decompiled_com.xiaopeng.car.settings_apk"          revision="p5_d55_3.6.1"/>
+  <project path="P5_D55/system_app/com.xiaopeng.wirelessprojection/V1.6.0_20230928152821_Release"      name="open-zpeng/decompiled_com.xiaopeng.wirelessprojection_apk"    revision="p5_d55_3.6.1"/>
+  <project path="P5_D55/system_app/com.xiaopeng.xmart.camera/V1.6.0_20230913160447_Release"            name="open-zpeng/decompiled_com.xiaopeng.xmart.camera_apk"          revision="p5_d55_3.6.1"/>
+  <project path="P5_D55/system_app/com.xiaopeng.xmart.cargallery/V1.6.0_20230804170041_Release"        name="open-zpeng/decompiled_com.xiaopeng.xmart.cargallery_apk"      revision="p5_d55_V1.6.0_20230804170041_Release"/>
+  <project path="P5_D55/system_app/com.sinovoice.hcicloudinputvehicle/6.3.3_20230414"                  name="open-zpeng/decompiled_com.sinovoice.hcicloudinputvehicle_apk" revision="p5_d55_6.3.3_20230414"/>
+  <project path="P5_D55/system_app/com.xiaopeng.chargecontrol/V1.6.0_20230921135459_Release-D55"       name="open-zpeng/decompiled_com.xiaopeng.chargecontrol_apk"         revision="p5_d55_V1.6.0_20230921135459_Release-D55"/>
+  <project path="P5_D55/system_app/com.xiaopeng.appstore/VV1.6.0_20230915224106_Release"               name="open-zpeng/decompiled_com.xiaopeng.appstore_apk"              revision="p5_d55_VV1.6.0_20230915224106_Release"/>
+  <project path="P5_D55/system_app/com.xiaopeng.instrument/VV1.6.0_20231008155334_Release"             name="open-zpeng/decompiled_com.xiaopeng.instrument_apk"            revision="p5_d55_VV1.6.0_20231008155334_Release"/>
+  <project path="P5_D55/system_app/com.xiaopeng.xpspeechservice.ms/1.3.0"                              name="open-zpeng/decompiled_com.xiaopeng.xpspeechservice.ms_apk"    revision="p5_d55_1.3.0"/>
+  <project path="P5_D55/system_app/com.xiaopeng.xpspeechservice/1.0"                                   name="open-zpeng/decompiled_com.xiaopeng.xpspeechservice_apk"       revision="p5_d55_1.0"/>
+  <project path="P5_D55/system_app/com.xiaopeng.configurationcenter/V1.6.0_20230724112436_Release-D55" name="open-zpeng/decompiled_com.xiaopeng.configurationcenter_apk"   revision="p5_d55_V1.6.0_20230724112436_Release-D55"/>
 
-  <project path="P5_D55/3.6.1/vendor_app/com.xiaopeng.devtools/2.0"                    name="open-zpeng/decompiled_com.xiaopeng.devtools_apk"   revision="p5_d55_3.6.1"/>
-  <project path="P5_D55/3.6.1/vendor_app/com.xiaopeng.ota/V1.9.0_20230627200533_Alpha" name="open-zpeng/decompiled_com.xiaopeng.ota_apk"        revision="p5_d55_3.6.1"/>
+  <project path="P5_D55/vendor_app/com.xiaopeng.devtools/2.0"                    name="open-zpeng/decompiled_com.xiaopeng.devtools_apk"   revision="p5_d55_3.6.1"/>
+  <project path="P5_D55/vendor_app/com.xiaopeng.ota/V1.9.0_20230627200533_Alpha" name="open-zpeng/decompiled_com.xiaopeng.ota_apk"        revision="p5_d55_3.6.1"/>
 </manifest>
