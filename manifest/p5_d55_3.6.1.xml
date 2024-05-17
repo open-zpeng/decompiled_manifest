@@ -9,6 +9,7 @@
   <project path="P5_D55/system/framework/3.6.1/xpeng.test.jar"                    name="open-zpeng/decompiled_xpeng_test_jar"                      revision="p5_d55_3.6.1"/>
   <project path="P5_D55/system/framework/3.6.1/service.jar"                       name="open-zpeng/decompiled_service_jar"                         revision="p5_d55_3.6.1"/>
 
+  <project path="P5_D55/system_app/com.android.systemui/10"             name="open-zpeng/decompiled_com.android.systemui_apk"          revision="p5_d55_10"/>
   <project path="P5_D55/system_app/com.android.nfc/10"                  name="open-zpeng/decompiled_com.android.nfc_apk"               revision="p5_d55_10"/>
   <project path="P5_D55/system_app/com.nforetek.bt/3.6.346"             name="open-zpeng/decompiled_com.nforetek.bt_apk"               revision="p5_d55_3.6.346"/>
   <project path="P5_D55/system_app/com.xiaopeng.hiddenCam/none"         name="open-zpeng/decompiled_com.xiaopeng.hiddenCam_apk"        revision="p5_d55_3.6.1"/>
