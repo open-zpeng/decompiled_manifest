@@ -38,6 +38,20 @@
   <project path="P5_D55/system_app/com.xiaopeng.xpspeechservice/1.0"                                   name="open-zpeng/decompiled_com.xiaopeng.xpspeechservice_apk"       revision="p5_d55_1.0"/>
   <project path="P5_D55/system_app/com.xiaopeng.configurationcenter/V1.6.0_20230724112436_Release-D55" name="open-zpeng/decompiled_com.xiaopeng.configurationcenter_apk"   revision="p5_d55_V1.6.0_20230724112436_Release-D55"/>
 
+  <project path="P5_D55/priv_app/com.android.car/10"              name="open-zpeng/decompiled_com.android.car_apk"              revision="p5_d55_10"/>
+  <project path="P5_D55/priv_app/com.android.packageinstaller/10" name="open-zpeng/decompiled_com.android.packageinstaller_apk" revision="p5_d55_10"/>
+  <project path="P5_D55/priv_app/android.ext.services/2019-09"    name="open-zpeng/decompiled_android.ext.services_apk"         revision="p5_d55_2019-09"/>
+  <project path="P5_D55/priv_app/com.android.inputdevices/10"     name="open-zpeng/decompiled_com.android.inputdevices_apk"     revision="p5_d55_10"/>
+  <project path="P5_D55/priv_app/com.android.shell/10"            name="open-zpeng/decompiled_com.android.shell_apk"            revision="p5_d55_10"/>
+  <project path="P5_D55/priv_app/com.xiaopeng.aftersales/1.0"     name="open-zpeng/decompiled_com.xiaopeng.aftersales_apk"      revision="p5_d55_1.0"/>
+  <project path="P5_D55/priv_app/com.xiaopeng.xuiservice/1.0"     name="open-zpeng/decompiled_com.xiaopeng.xuiservice_apk"      revision="p5_d55_1.0"/>
+  <project path="P5_D55/priv_app/com.xiaopeng.factory/1.0"        name="open-zpeng/decompiled_com.xiaopeng.factory_apk"         revision="p5_d55_1.0"/>
+  <project path="P5_D55/priv_app/com.xiaopeng.networkmonitor/1.1" name="open-zpeng/decompiled_com.xiaopeng.networkmonitor_apk"  revision="p5_d55_1.1"/>
+  <project path="P5_D55/priv_app/com.xiaopeng.cardiagnosis/10"    name="open-zpeng/decompiled_com.xiaopeng.cardiagnosis_apk"    revision="p5_d55_10"/>
+  <project path="P5_D55/priv_app/com.android.permissioncontroller/29_system_image"  name="open-zpeng/decompiled_com.android.permissioncontroller_apk"          revision="p5_d55_29_system_image"/>
+  <project path="P5_D55/priv_app/com.android.networkstack.permissionconfig/2019-09" name="open-zpeng/decompiled_com.android.networkstack.permissionconfig_apk" revision="p5_d55_2019-09"/>
+  <project path="P5_D55/priv_app/com.xiaopeng.oobe/VV1.6.0_20230816182417_Release"  name="open-zpeng/decompiled_com.xiaopeng.oobe_apk"                         revision="p5_d55_VV1.6.0_20230816182417_Release"/>
+
   <project path="P5_D55/vendor_app/com.xiaopeng.devtools/2.0"                    name="open-zpeng/decompiled_com.xiaopeng.devtools_apk"   revision="p5_d55_3.6.1"/>
   <project path="P5_D55/vendor_app/com.xiaopeng.ota/V1.9.0_20230627200533_Alpha" name="open-zpeng/decompiled_com.xiaopeng.ota_apk"        revision="p5_d55_3.6.1"/>
 </manifest>
